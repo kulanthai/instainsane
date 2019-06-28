@@ -3,7 +3,7 @@
 just siting
 oneside love
 doubleside love
-LICENSE love
+License love
 
 
 thank you:)
